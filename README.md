@@ -36,14 +36,33 @@ If you want to run any of the projects or view the assignments, please feel free
 
 
 
+
+
+
 # Assignments
 Module-1 - Quiz
+
 Module-2 - Coding
+
 Module-3 - Coding
+
 Module-4 - Coding
+
 Module-5 - Coding
 
 
 
 #Output:
+
+
+
+
+
+
+
+
+
+
+
+
 
